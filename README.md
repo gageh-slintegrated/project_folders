@@ -1,4 +1,4 @@
-# 01 SL Proposal Documents :money:
+# 01 SL Proposal Documents :dollar:
 * 01 Templates
  * Engineering spreadsheet templates
 * 02 Pre Sales
