@@ -1,10 +1,10 @@
 # 01 SL Proposal Documents :dollar:
 * 01 Templates
- * Engineering spreadsheet templates
+   * Engineering spreadsheet templates
 * 02 Pre Sales
- * Spreadsheets that are in progress, or completed
+   * Spreadsheets that are in progress, or completed
 * 03 Signed
- * Signed proposal documents
+   * Signed proposal documents
 
 # 02 Scope
 * Scope documents including; bid specifications, design build general scopes, programming scopes, etc.
@@ -12,9 +12,9 @@
 
 # 03 Site Pictures
  * Pre Sales
-  * Site visit pre-sales pictures
+    * Site visit pre-sales pictures
  * Post Sales
-  * During installation and post-sales pictures
+    * During installation and post-sales pictures
 
 # 04 Contract Documents
 * Signed/in review contract documentation
